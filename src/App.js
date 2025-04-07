@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import AllPagesPDFViewer from "./pdf/all-pages";
-import MeniuBlueRiverPDF from "./Meniu_Blue_River.pdf";
+// import AllPagesPDFViewer from "./pdf/all-pages";
+// import MeniuBlueRiverPDF from "./Meniu_Blue_River.pdf";
 import MenuSection from "./menu/MenuSection";
 import { foodEntries } from "./service/menuData";
 import { Typography } from "@mui/material";
